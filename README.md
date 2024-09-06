@@ -1,4 +1,4 @@
-## Linkedin Quiz Answers, Skill Assessments Test
+## Quiz Answers, Skill Assessments Test
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-454-orange.svg?style=flat-square)](#contributors-)
